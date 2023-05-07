@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bistro-cafe/static/css/main.c148e51b.css",
+    "main.js": "/bistro-cafe/static/js/main.0f3baca7.js",
+    "static/media/bg.png": "/bistro-cafe/static/media/bg.51b1e69cded5efe1b202.png",
+    "static/media/body-bg-pattern.png": "/bistro-cafe/static/media/body-bg-pattern.6c31ed84fb390068021b.png",
+    "static/media/plate.png": "/bistro-cafe/static/media/plate.38b35e4117beb079260a.png",
+    "static/media/chef.png": "/bistro-cafe/static/media/chef.003aa9e5d022f4a08796.png",
+    "static/media/3.png": "/bistro-cafe/static/media/3.d345df16f2bd6d166400.png",
+    "static/media/4.png": "/bistro-cafe/static/media/4.61136917015d284d66b0.png",
+    "static/media/1.png": "/bistro-cafe/static/media/1.4acdf19563de03364a62.png",
+    "static/media/2.png": "/bistro-cafe/static/media/2.ef2b25abfa7d6fb8cffb.png",
+    "static/media/avatar1.png": "/bistro-cafe/static/media/avatar1.27a81bcea579cdc1cf92.png",
+    "static/media/avatar3.png": "/bistro-cafe/static/media/avatar3.fe5de891cf00cdb0534c.png",
+    "static/media/avatar2.png": "/bistro-cafe/static/media/avatar2.e728d8a774b3109f5951.png",
+    "index.html": "/bistro-cafe/index.html",
+    "static/media/arrow-left.svg": "/bistro-cafe/static/media/arrow-left.77d5a5d78b1b76ce16f3.svg",
+    "static/media/arrow-right.svg": "/bistro-cafe/static/media/arrow-right.c331d5c20dca215affc8.svg",
+    "main.c148e51b.css.map": "/bistro-cafe/static/css/main.c148e51b.css.map",
+    "main.0f3baca7.js.map": "/bistro-cafe/static/js/main.0f3baca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c148e51b.css",
+    "static/js/main.0f3baca7.js"
+  ]
+}
