@@ -1,1 +1,1 @@
-<h1>Bistro Cafe </h1>
+<h1 class="center">Bistro Cafe </h1>
